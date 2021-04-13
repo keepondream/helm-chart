@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  firstchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-12T16:00:30.02585+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 601d37601554191c65cc5410be276e37c8fe40ddb09388d4de1fec626e818569
+    name: firstchart
+    type: application
+    urls:
+    - https://github.com/keepondream/helm-chart/firstchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-12T16:00:30.024397+08:00"
